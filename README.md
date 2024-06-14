@@ -33,6 +33,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![ReactJS](https://img.shields.io/badge/ReactJS%20-%23464949.svg?style=for-the-badge&logo=react&logoColor=00d7fe)
+   ![Pug](https://img.shields.io/badge/ReactJS%20-%23e13136.svg?style=for-the-badge&logo=pug&logoColor=white)
 
 <br>
 
@@ -47,6 +48,12 @@
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-001d2a?style=for-the-badge&logo=mongodb)
   ![Mongoose](https://img.shields.io/badge/Mongoose-ededed?style=for-the-badge&logo=mongoose&logoColor=870000)
+
+<br>
+
+- **Testing**:
+
+   ![Jest](https://img.shields.io/badge/Jest%20-%2396727c.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 <br>
 

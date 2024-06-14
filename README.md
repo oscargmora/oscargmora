@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd0YXN1bTdxcWNiMjZmNHV2cXp6cHpza3llcmJwc3F2YmVpMmswcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100"/>
+</div>
+
 ## Hi there, I'm Oscar Mora 👋
 
 Hello, and welcome to my GitHub profile! My name is Oscar Mora, and I am a software developer with a passion for creating engaging and user-friendly web applications.

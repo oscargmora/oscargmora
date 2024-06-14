@@ -32,7 +32,7 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![ReactJS](https://img.shields.io/badge/ReactJS%20-%23464949.svg?style=for-the-badge&logo=react&logoColor=00d7fe)
    ![Pug](https://img.shields.io/badge/Pug%20-%23e13136.svg?style=for-the-badge&logo=pug&logoColor=white)
-   ![Webpack](https://img.shields.io/badge/Webpack%20-%23904c08.svg?style=for-the-badge&logo=webpack)
+   ![Webpack](https://img.shields.io/badge/Webpack%20-%23d91a60.svg?style=for-the-badge&logo=webpack)
 
 <br>
 

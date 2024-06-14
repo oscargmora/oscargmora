@@ -70,7 +70,9 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f3801e.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)
     ![Node Package Manager](https://img.shields.io/badge/Node%20Package%20Manager-83dae9.svg?style=for-the-badge&logo=npm)
-    ![Babel](https://img.shields.io/badge/Babel-121011.svg?style=for-the-badge&logo=babel)
+    ![Babel](https://img.shields.io/badge/Babel-601011.svg?style=for-the-badge&logo=babel)
+    ![Prettier](https://img.shields.io/badge/Prettier-27333b.svg?style=for-the-badge&logo=prettier)
+    ![ESLint](https://img.shields.io/badge/ESLint-5139c5.svg?style=for-the-badge&logo=eslint)
 
 <br>
 

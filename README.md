@@ -30,11 +30,10 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Webpack](https://img.shields.io/badge/Webpack%20-%23d91a60.svg?style=for-the-badge&logo=webpack)
    ![ReactJS](https://img.shields.io/badge/ReactJS%20-%23464949.svg?style=for-the-badge&logo=react&logoColor=00d7fe)
    ![Vite](https://img.shields.io/badge/Vite%20-%23ffc228.svg?style=for-the-badge&logo=vite)
-   ![Vitest](https://img.shields.io/badge/Vitest%20-%232d2d2d.svg?style=for-the-badge&logo=vitest)
    ![Pug](https://img.shields.io/badge/Pug%20-%23e13136.svg?style=for-the-badge&logo=pug&logoColor=white)
-   ![Webpack](https://img.shields.io/badge/Webpack%20-%23d91a60.svg?style=for-the-badge&logo=webpack)
 
 <br>
 
@@ -55,6 +54,7 @@
 - **Testing**:
 
    ![Jest](https://img.shields.io/badge/Jest%20-%2396727c.svg?style=for-the-badge&logo=jest&logoColor=white)
+   ![Vitest](https://img.shields.io/badge/Vitest%20-%232d2d2d.svg?style=for-the-badge&logo=vitest)
 
 <br>
 

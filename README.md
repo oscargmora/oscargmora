@@ -49,8 +49,8 @@
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-001d2a?style=for-the-badge&logo=mongodb)
   ![Mongoose](https://img.shields.io/badge/Mongoose-ededed?style=for-the-badge&logo=mongoose&logoColor=870000)
-  ![Postgresql](https://img.shields.io/badge/Postgresql%20-%2314354C.svg?style=for-the-badge&logo=postgresql&logoColor=black)
-  ![Prisma](https://img.shields.io/badge/Prisma%20-%23054020.svg?style=for-the-badge&logo=prisma&logoColor=black)
+  ![Postgresql](https://img.shields.io/badge/Postgresql%20-%2314354C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma%20-%23054020.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 <br>
 

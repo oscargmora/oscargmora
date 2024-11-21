@@ -34,7 +34,7 @@
    ![ReactJS](https://img.shields.io/badge/ReactJS%20-%23464949.svg?style=for-the-badge&logo=react&logoColor=00d7fe)
    ![Vite](https://img.shields.io/badge/Vite%20-%23ffc228.svg?style=for-the-badge&logo=vite)
    ![Pug](https://img.shields.io/badge/Pug%20-%23e13136.svg?style=for-the-badge&logo=pug&logoColor=white)
-   ![Ejs](https://img.shields.io/badge/Ejs%20-%23e13136.svg?style=for-the-badge&logo=ejs&logoColor=white)
+   ![Ejs](https://img.shields.io/badge/Ejs%20-%231572B6.svg?style=for-the-badge&logo=ejs&logoColor=white)
 
 <br>
 

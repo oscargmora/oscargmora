@@ -72,7 +72,7 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%234285F4.svg?style=for-the-badge&logo=VSCode&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/ViSual%20Studio%20Code-%234285F4.svg?style=for-the-badge&logo=VSCode&logoColor=white)
     ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f3801e.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)
     ![Node Package Manager](https://img.shields.io/badge/Node%20Package%20Manager-83dae9.svg?style=for-the-badge&logo=npm)
     ![Babel](https://img.shields.io/badge/Babel-601011.svg?style=for-the-badge&logo=babel)
